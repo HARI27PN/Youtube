@@ -1,0 +1,16 @@
+google-api-python-client
+pymongo
+mysql-connector-python
+pandas
+numpy
+streamlit
+plotly
+google-api-python-client
+pymongo
+mysql-connector-python
+pandas
+numpy
+streamlit
+plotly
+pymysql
+sqlalchemy
