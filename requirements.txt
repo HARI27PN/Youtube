@@ -15,3 +15,4 @@ plotly
 pymysql
 sqlalchemy
 streamlit_option_menu
+psycopg2
